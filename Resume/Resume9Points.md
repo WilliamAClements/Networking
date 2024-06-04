@@ -27,7 +27,7 @@ Here are my nine points that every graduating student should have on their resum
 - Who is the audience of your resume?
 - How do I make my resume better?
 - What are some good projects I should start on?
-- What is a good format for my experience? Projects?
+- What should I include in my [experience](Resume9Points.md)? Projects?
 
 ### Question for you:
 - How many companies have you applied to so far? Could I get a list?
