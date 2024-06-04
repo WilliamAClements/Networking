@@ -2,8 +2,8 @@
 
 Thank you for connecting with me. 
 I want to help you with the next steps in your career, like:
-* [Help review your resume](Resume9Points.md), or
-* Learning how to work the METHOD, or
+* [Help review your resume](Resume/Resume9Points.md), or
+* [Learning how to work the METHOD](Method/CareerServicesMethod.md), or
 * Answering any questions about graduation, or
 * Building a professional network, or
 * Build a portfolio of projects, or
