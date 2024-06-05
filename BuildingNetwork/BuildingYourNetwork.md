@@ -1,6 +1,3 @@
-Certainly! Here's your text converted to Markdown:
-
----
 
 # Building Your Network
 
